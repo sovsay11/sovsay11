@@ -1,7 +1,7 @@
-- 👋 Hi there, I’m @sovsay11! (my friends call me Noah)
-- 👀 I’m interested in learning about things I don't understand and creating projects with that knowledge
-- 🌱 I’m currently learning React and Angular
-- 💞️ I’m looking to collaborate on anything related to C#, JavaScript, or Python
+- 😁 Hi there, I’m @sovsay11! (my friends call me Noah)
+- 👨‍💻 I’m working on becoming a full-stack developer, but currently I'm focusing on backend development and database management.
+- 🏫 I’m currently reinforcing my knowledge of C# and learning about JavaScript frameworks like React and Node.js!
+- 👾 Most of my current projects are related to C#, .NET, JavaScript, and Python
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/noah-say-0b6210187/">LinkedIn</a> - sovannarasay11@gmail.com
 
 <!---
